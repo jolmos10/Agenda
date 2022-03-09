@@ -1,6 +1,3 @@
-System.out.println("Hola");
-package Moviles;
-
 import java.util.HashMap;
 import java.util.Scanner;
 
